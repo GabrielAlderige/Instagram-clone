@@ -28,6 +28,7 @@ body{
     position: absolute;
     left: 153px;
     top: 26px;
+    transition: opacity 2s;
 }
 
 .insta-logo{
@@ -81,4 +82,5 @@ button{
     cursor: pointer;
     font-size: 12px;
 }
+
 
